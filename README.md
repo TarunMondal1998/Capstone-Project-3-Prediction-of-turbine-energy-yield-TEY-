@@ -51,7 +51,7 @@ The neural network used for this project includes:
 **7. Streamlit**: For developing the web application
 
 ## View of the project:
-
+https://github.com/user-attachments/assets/57b13479-e802-4be3-86bb-d75b9c31da10
 
 ## Project working:
 
