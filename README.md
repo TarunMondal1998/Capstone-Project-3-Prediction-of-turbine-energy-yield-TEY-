@@ -27,18 +27,27 @@ The dataset used for this project consists of sensor measurements from a gas tur
 The neural network used for this project includes:
 
 **1. Input Layer**: 8 variables (AT, AP, AH, AFDP, GTEP, TAT, CO, NOx).
+
 **2. Hidden Layers**: Dense layers with ReLU activations.
+
 **3. Output Layer**: Separate nodes predicting TEY.
+
 
 
 
 ## Key Technologies:
 **1. Python**: Core programming language for data processing and model building.
+
 **2. TensorFlow/Keras**: For neural network model development.
+
 **3. NumPy/Pandas**: For data manipulation and preprocessing.
+
 **4. Matplotlib/Seaborn**: For data visualization.
+
 **5. Scikit-learn**: For data preprocessing and evaluation metrics.
+
 **6. Pickle**: For dumping model API
+
 **7. Streamlit**: For developing the web application
 
 ## View of the project:
