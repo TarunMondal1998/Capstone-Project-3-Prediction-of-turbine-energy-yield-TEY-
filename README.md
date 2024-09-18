@@ -32,7 +32,7 @@ The neural network used for this project includes:
 
 **3. Output Layer**: Separate nodes predicting TEY.
 
-
+![Gas Turbine](https://github.com/user-attachments/assets/98c113c2-790e-4455-ad24-ae482426825a)
 
 
 ## Key Technologies:
@@ -55,5 +55,7 @@ The neural network used for this project includes:
 
 ## Project working:
 
+![Scrreenshot 1](https://github.com/user-attachments/assets/79942e12-a300-4262-9eac-5c7a61db30a6)
 
+![Screemshot 2](https://github.com/user-attachments/assets/9b7aa638-05f2-47a7-94b4-7465010a26e2)
 
